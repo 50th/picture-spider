@@ -2,7 +2,7 @@
 Python3.7.3
 Scrapy1.6.0
 
-爬取https://www.zhainanfu.com/tuku下的图片，分别保存在各自的文件夹。
+爬取 https://www.zhainanfu.com/tuku 下的图片，分别保存在各自的文件夹。
 
 自己定制Scrapy的图片管道，重写了file_path方法来实现图片保存在不同文件夹。
 
