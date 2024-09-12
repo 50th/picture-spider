@@ -1,4 +1,4 @@
-# picture_spider
+# Picture Spider
 Python3.7.3
 Scrapy1.6.0
 
